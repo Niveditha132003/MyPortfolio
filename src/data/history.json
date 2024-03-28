@@ -1,0 +1,19 @@
+[
+    {
+      "role": "Content Writer",
+      "organisation": "Sigma",
+      "startDate": "Sept, 2022",
+      "endDate": "Present",
+      "experiences": ["We regularly publish the magazines on Browse(CSE Branch Fest)","This usually covers every concept like puzzles,technical questions,aptitude,games etc"],
+      "imageSrc": "history/sigma.png"
+    },
+    {
+      "role": "Member in web Team",
+      "organisation": "Sark",
+      "startDate": "Nov, 2022",
+      "endDate": "Present",
+      "experiences": ["Project based Learning", "Conducted many events like clash of codes,cyber etymology etc;","Conducted web development and python workshops"],
+      "imageSrc": "history/sark.png"
+    }
+   
+  ]

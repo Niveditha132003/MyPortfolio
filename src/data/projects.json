@@ -1,0 +1,43 @@
+[
+    {
+      "title": "ChatApplication",
+      "imageSrc": "projects/chat.png",
+      "description": "Dynamic MERN Application and Socket.io is used for Communication.",
+      "skills": ["React", "Express", "Node","MongoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Niveditha132003/ChatApp"
+    },
+    {
+      "title": "Tour App",
+      "imageSrc": "projects/tour.png",
+      "description": "This Project helps the travellers to find amazing places and reach out their destination.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://niveditha132003.github.io/Tourapp/",
+      "source": "https://github.com/Niveditha132003/Tourapp"
+    },
+    {
+      "title": "Quiz Creator",
+      "imageSrc": "projects/quiz.png",
+      "description": "This project includes the timer for each question and score is displayed at Final.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://niveditha132003.github.io/QuizApp/",
+      "source": "https://github.com/Niveditha132003/QuizApp"
+    },
+    {
+      "title": "Travel Iternary Planner",
+      "imageSrc": "projects/travel.png",
+      "description": "This is a project helps the traveller to plan the destination with required activities and budget.",
+      "skills": ["MySQL"],
+      "demo": "",
+      "source": "https://github.com/Niveditha132003/TravelItenaryPlanner"
+    },
+    {
+      "title": "Hostel Management",
+      "imageSrc": "projects/hostel.png",
+      "description": "This Project includes the food menu,managing of the students in different hostels.This project is built for User,Adminstrator and Visitors.Security is also Provided",
+      "skills": ["Single Linked List"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Niveditha132003/HostelManagement"
+    }
+   
+  ]
